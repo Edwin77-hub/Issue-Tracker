@@ -1,0 +1,29 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+  font-family: "Benton Sans",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",helvetica,arial,sans-serif;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.issue {
+  margin: 25px;
+  padding: 7px;
+  width: 70%;
+  border: 2px solid black;
+}
+
+.closed {
+  background-color: grey;
+}
+
+.id {
+  font-size: 10.5px;
+}
+
+#testForm4 {
+  margin-bottom: 20px;
+}
